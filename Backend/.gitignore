@@ -7,3 +7,5 @@ __pycache__/
 .hos-env/
 
 test.ipynb
+Groq_Manager.py
+Legal_Fetch.py
