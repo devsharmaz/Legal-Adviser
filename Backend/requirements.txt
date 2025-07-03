@@ -1,0 +1,8 @@
+groq==0.29.0
+python_dotenv==1.1.1
+pinecone==7.3.0
+fastapi
+uvicorn
+pydantic
+python_gemini_api==2.4.12
+google_generativeai==0.8.5
