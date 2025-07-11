@@ -23,7 +23,7 @@ The project is structured into three main parts:
 
 ## How it Works
 
-1.  A user submits a query through the React frontend.
+1.  A user submits a query through the frontend.
 2.  The frontend sends the query to the FastAPI backend.
 3.  The `gemini_manager.py` in the backend processes the user's natural language query using the Gemini API to understand its meaning and extract key information.
 4.  Based on the processed query, `pinecone_manager.py` creates vector embeddings and searches a Pinecone vector database for sections of the Bharatiya Nyaya Sanhita that are semantically similar to the user's query.
