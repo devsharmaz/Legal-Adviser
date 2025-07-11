@@ -66,15 +66,9 @@ The project is structured into three main parts:
 
 ## Usage
 
-*(Instructions on how to start the backend server and the frontend application will be added here. This usually involves commands like `python server.py` or `npm run dev` in the respective directories.)*
-
-## Contributing
-
-*(Details on how to contribute to the project, if applicable.)*
-
-## License
-
-*(Specify the license for the project, e.g., MIT, Apache 2.0.)*
+commands to start server:
+`python server.py` 
+`npm run dev`
 
 ## Project Structure
 
