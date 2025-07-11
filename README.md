@@ -67,8 +67,10 @@ The project is structured into three main parts:
 ## Usage
 
 commands to start server:
+```bash
 `python server.py` 
 `npm run dev`
+```
 
 ## Project Structure
 
