@@ -18,7 +18,7 @@ The project is structured into three main parts:
     *   `gemini_manager.py`: Manages interactions with the Gemini API to understand the intent and entities in user queries.
     *   `pinecone_manager.py`: Handles the storage of vector embeddings and performs similarity searches using Pinecone to find relevant sections.
     *   `recommendation.py`: Orchestrates the overall process of generating information based on user queries.
-*   **`frontend/`**: A React application (built with Vite) that provides the user interface for interacting with the AI advisor.
+*   **`frontend/`**: A application that provides the user interface for interacting with the AI advisor.
 *   **`data/`**: Contains the raw data used by the system. The primary dataset is in `.csv` format, which presumably contains the sections and punishment details of the Bharatiya Nyaya Sanhita.
 
 ## How it Works
