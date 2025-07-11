@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/4ca3f728-cc88-4bf0-980c-a6260928a42c)
-![image](https://github.com/user-attachments/assets/4df2e70c-f87c-4fae-8164-e6f1f6b1bf62)
+<img width="920" height="840" alt="image" src="https://github.com/user-attachments/assets/4afe0ccf-f090-43da-afc2-578d8b7fa0e3" />
+<img width="939" height="819" alt="image" src="https://github.com/user-attachments/assets/a16e56e1-8010-4ce0-8f85-5e7bd3db1905" />
+
+
 # Bharatiya Nyaya Sanhita AI Advisor
 
 ## Overview
