@@ -88,7 +88,7 @@ commands to start server:
 │   ├── .env.example        # Example environment variables file
 │   └── .env                # Actual environment variables (gitignored)
 ├── frontend/
-│   └── ...                 # React application (built with Vite)
+│   └── ...                 # Application (built with bolt)
 ├── data/
 │   └── *.csv               # Primary dataset(s)
 └── README.md
