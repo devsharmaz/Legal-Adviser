@@ -8,7 +8,7 @@
 
 ## Overview
 
-Bharatiya Nyaya Sanhita AI Advisor is a project designed to provide information about the sections and corresponding punishments outlined in the Bharatiya Nyaya Sanhita. It leverages AI to understand user queries and retrieve relevant legal information.
+Bharatiya Nyaya Sanhita AI Advisor is a project designed to provide information about the sections and corresponding punishments outlined in the Bharatiya Nyaya Sanhita with the capability of maintaining chat history and rewriting the querys for more efficiency. It leverages AI to understand user queries and retrieve relevant legal information.
 
 ## Key Components
 
